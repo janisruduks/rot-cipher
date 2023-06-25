@@ -1,4 +1,4 @@
-package io.codelex.custom.encryptions;
+package io.codelex;
 
 import java.util.Scanner;
 
